@@ -1,0 +1,99 @@
+{
+    "abrigos" : [
+        {
+            "name": "Abrigo",
+            "url": "./src/img/abrigos/01.jpg",
+            "precio": "20"
+        },
+        {
+            "name": "Abrigo",
+            "url": "./src/img/abrigos/02.jpg",
+            "precio": "20"
+        },
+        {
+            "name": "Abrigo",
+            "url": "./src/img/abrigos/03.jpg",
+            "precio": "20"
+        },
+        {
+            "name": "Abrigo",
+            "url": "./src/img/abrigos/04.jpg",
+            "precio": "20"
+        },
+        {
+            "name": "Abrigo",
+            "url": "./src/img/abrigos/05.jpg",
+            "precio": "20"
+        }
+    ],
+
+    "camisetas": [
+        {
+            "name": "Camiseta",
+            "url": "./src/img/camisetas/01.jpg",
+            "precio": "20"
+        },
+        {
+            "name": "Camiseta",
+            "url": "./src/img/camisetas/02.jpg",
+            "precio": "20"
+        },
+        {
+            "name": "Camiseta",
+            "url": "./src/img/camisetas/03.jpg",
+            "precio": "20"
+        },
+        {
+            "name": "Camiseta",
+            "url": "./src/img/camisetas/04.jpg",
+            "precio": "20"
+        },
+        {
+            "name": "Camiseta",
+            "url": "./src/img/camisetas/05.jpg",
+            "precio": "20"
+        },
+        {
+            "name": "Camiseta",
+            "url": "./src/img/camisetas/06.jpg",
+            "precio": "20"
+        },
+        {
+            "name": "Camiseta",
+            "url": "./src/img/camisetas/07.jpg",
+            "precio": "20"
+        },
+        {
+            "name": "Camiseta",
+            "url": "./src/img/camisetas/08.jpg",
+            "precio": "20"
+        }
+    ],
+    "pantalones": [
+        {
+            "name": "Pantalón",
+            "url": "./src/img/pantalones/01.jpg",
+            "precio": "20"
+        },
+        {
+            "name": "Pantalón",
+            "url": "./src/img/pantalones/02.jpg",
+            "precio": "20"
+        },
+        {
+            "name": "Pantalón",
+            "url": "./src/img/pantalones/03.jpg",
+            "precio": "20"
+        },
+        {
+            "name": "Pantalón",
+            "url": "./src/img/pantalones/04.jpg",
+            "precio": "20"
+        },
+        {
+            "name": "Pantalón",
+            "url": "./src/img/pantalones/05.jpg",
+            "precio": "20"
+        }
+    ]
+}
