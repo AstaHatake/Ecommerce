@@ -56,8 +56,7 @@ menuItemAll.forEach(menuItem => {
 
         })
         menuItem.classList.add("active");
-        menuItem.classList.add("no-hover");
-        console.log(menuItem)
+        menuItem.classList.add("no-hover");        
         loadHTML(menuItem)
     })
         menuItem.addEventListener("mouseover",()=> {
